@@ -158,6 +158,7 @@ p{
     flex-wrap: wrap;
     justify-content: space-around;
     text-align: center;
+    row-gap: 20px;
 }
 form{
     display: flex;
@@ -205,4 +206,5 @@ button:hover{
 }
 .redes_sociais a:hover{
     background-color: #E1999F;
+
 }
